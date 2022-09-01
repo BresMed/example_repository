@@ -1,4 +1,28 @@
 # example_repository
 Example repository for learning to use GitHub
 
-# Jane 
+- Jane 
+- Robert Bruette
+- Sarah Smith
+
+
+# Robert
+
+
+
+
+# Sarah
+
+
+
+
+# Jane
+
+
+
+
+
+# Corey
+
+
+
