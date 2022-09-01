@@ -1,6 +1,7 @@
 # example_repository
 Example repository for learning to use GitHub
 
+- Jane 
 - Robert Bruette
 - Sarah Smith
 
@@ -22,18 +23,6 @@ Example repository for learning to use GitHub
 
 
 # Corey
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
